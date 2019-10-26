@@ -1,4 +1,4 @@
-Einführung in die deskriptive Statistik mit R
+Erste Schritte in die deskriptive Statistik mit R
 ================
 Prof. Dr. Jan Kirenz, Hochschule der Medien
 
